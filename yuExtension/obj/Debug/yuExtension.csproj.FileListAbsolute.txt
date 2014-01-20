@@ -1,0 +1,12 @@
+C:\BuildMaster\_WEBTMP\GitRepositories\github.com_ArthurAlensky_Extensions.git\yuExtension\bin\Debug\yuExtension.dll
+C:\BuildMaster\_WEBTMP\GitRepositories\github.com_ArthurAlensky_Extensions.git\yuExtension\bin\Debug\yuExtension.pdb
+C:\BuildMaster\_WEBTMP\GitRepositories\github.com_ArthurAlensky_Extensions.git\yuExtension\obj\Debug\yuExtension.csprojResolveAssemblyReference.cache
+C:\BuildMaster\_WEBTMP\GitRepositories\github.com_ArthurAlensky_Extensions.git\yuExtension\obj\Debug\yuExtension.dll
+C:\BuildMaster\_WEBTMP\GitRepositories\github.com_ArthurAlensky_Extensions.git\yuExtension\obj\Debug\yuExtension.pdb
+C:\BuildMaster\_SVCTMP\_A4\_S5\WRK\yuExtension.dll
+C:\BuildMaster\_SVCTMP\_A4\_S5\WRK\yuExtension.pdb
+C:\Users\Artur_Alenski\GitRepositories\Extensions\Example\yuExtension\bin\Debug\yuExtension.dll
+C:\Users\Artur_Alenski\GitRepositories\Extensions\Example\yuExtension\bin\Debug\yuExtension.pdb
+C:\Users\Artur_Alenski\GitRepositories\Extensions\Example\yuExtension\obj\Debug\yuExtension.csprojResolveAssemblyReference.cache
+C:\Users\Artur_Alenski\GitRepositories\Extensions\Example\yuExtension\obj\Debug\yuExtension.dll
+C:\Users\Artur_Alenski\GitRepositories\Extensions\Example\yuExtension\obj\Debug\yuExtension.pdb
